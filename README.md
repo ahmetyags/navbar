@@ -32,13 +32,13 @@ navbar (folder)
 ### Screenshot
 
 <p align="center">
-<a href="https://sezginakgul.github.io/navbar/"><img src="bar.gif" alt="screenshot" width="100%"></a>
+<a href="https://ahmetyags.github.io/navbar/"><img src="bar.gif" alt="screenshot" width="100%"></a>
 </p>
 
 
 ### Links
 
-- Live: [Live Website](https://sezginakgul.github.io/navbar/)
+- Live: [Live Website](https://ahmetyags.github.io/navbar/)
 
 
 ### Built with
